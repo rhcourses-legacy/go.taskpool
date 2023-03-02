@@ -15,3 +15,4 @@ Um Hinweise zu erhalten, kann man sie dann auch in einem Code-Editor öffnen ode
 ausführen.
 
 * [Ausgabe der Summe zweier Zahlen](printsum/README.md)
+* [Addieren der Elemente einer Liste](addelements/README.md)
